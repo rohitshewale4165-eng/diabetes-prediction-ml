@@ -13,7 +13,7 @@ AI-Powered Diabetes Prediction System using SVM and Streamlit
 ## 📸 Screenshots
 
 ### 🏠 Home Screen — Model Info
-Screenshot (244).png
+Screenshot%20(245).png
 
 ### ✅ Low Risk Result (18.5%)
 ![Low Risk](Screenshot (244).png)
