@@ -1,5 +1,3 @@
-# diabetes-prediction-ml
-AI-Powered Diabetes Prediction System using SVM and Streamlit
 # 🏥 Diabetes Prediction System
 ### AI-Powered Risk Assessment Tool using Machine Learning
 
@@ -13,13 +11,13 @@ AI-Powered Diabetes Prediction System using SVM and Streamlit
 ## 📸 Screenshots
 
 ### 🏠 Home Screen — Model Info
-Screenshot%20(244).png
+![Home Screen](https://raw.githubusercontent.com/rohitshewale4165-eng/diabetes-prediction-ml/main/Screenshot%20(245).png)
 
 ### ✅ Low Risk Result (18.5%)
-![Low Risk](Screenshot (244).png)
+![Low Risk](https://raw.githubusercontent.com/rohitshewale4165-eng/diabetes-prediction-ml/main/Screenshot%20(244).png)
 
 ### 🟡 Moderate Risk Result (60.1%)
-![Moderate Risk](Screenshot (246).png)
+![Moderate Risk](https://raw.githubusercontent.com/rohitshewale4165-eng/diabetes-prediction-ml/main/Screenshot%20(246).png)
 
 ---
 
@@ -75,7 +73,7 @@ A **Machine Learning web application** that predicts the risk of diabetes based 
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/diabetes-prediction-ml.git
+git clone https://github.com/rohitshewale4165-eng/diabetes-prediction-ml.git
 cd diabetes-prediction-ml
 ```
 
@@ -111,10 +109,6 @@ diabetes-prediction-ml/
 ├── diabetes_prediction.py    # Model training script
 ├── diabetes.csv              # Dataset
 ├── requirements.txt          # Dependencies
-├── images/                   # Screenshots folder
-│   ├── screenshot_home.png
-│   ├── screenshot_low_risk.png
-│   └── screenshot_moderate.png
 └── README.md                 # Documentation
 ```
 
@@ -147,7 +141,7 @@ plotly
 
 ## 👨‍💻 Author
 
-**Shewale Rohit** — ML Intern Project  
+**Rohit Shewale** — ML Intern Project  
 Built with ❤️ using Python, Scikit-learn & Streamlit
 
 ---
