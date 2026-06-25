@@ -8,7 +8,7 @@
 
 ---
 
-## 📸 Screenshots
+# 📸 Screenshots
 
 ### 🏠 Home Screen — Model Info
 ![Home Screen](https://raw.githubusercontent.com/rohitshewale4165-eng/diabetes-prediction-ml/main/Screenshot%20(245).png)
@@ -21,7 +21,7 @@
 
 ---
 
-## 📌 Project Overview
+# 📌 Project Overview
 
 A **Machine Learning web application** that predicts the risk of diabetes based on patient medical measurements. Built using **Support Vector Machine (SVM)** and deployed with **Streamlit**.
 
@@ -29,7 +29,7 @@ A **Machine Learning web application** that predicts the risk of diabetes based 
 
 ---
 
-## 🎯 Features
+# 🎯 Features
 
 - ✅ Real-time diabetes risk prediction
 - ✅ Interactive gauge chart (0–100% risk level)
@@ -54,7 +54,7 @@ A **Machine Learning web application** that predicts the risk of diabetes based 
 
 ---
 
-## 📊 Input Features
+# 📊 Input Features
 
 | Feature | Description | Range |
 |---------|-------------|-------|
@@ -69,38 +69,38 @@ A **Machine Learning web application** that predicts the risk of diabetes based 
 
 ---
 
-## 🚀 How to Run Locally
+# 🚀 How to Run Locally
 
-### Step 1 — Clone the repository
+##  Step 1 — Clone the repository
 ```bash
 git clone https://github.com/rohitshewale4165-eng/diabetes-prediction-ml.git
 cd diabetes-prediction-ml
 ```
 
-### Step 2 — Install dependencies
+## Step 2 — Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 3 — Train the model
+## Step 3 — Train the model
 ```bash
 python diabetes_prediction.py
 ```
 > This generates `diabetes_model.pkl` and `scaler_svm.pkl` automatically
 
-### Step 4 — Run the app
+## Step 4 — Run the app
 ```bash
 python -m streamlit run app.py
 ```
 
-### Step 5 — Open browser
+## Step 5 — Open browser
 ```
 http://localhost:8501
 ```
 
 ---
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 ```
 diabetes-prediction-ml/
@@ -116,7 +116,7 @@ diabetes-prediction-ml/
 
 ---
 
-## 📦 Requirements
+# 📦 Requirements
 
 ```
 streamlit
@@ -129,7 +129,7 @@ plotly
 
 ---
 
-## 🔮 Future Improvements
+# 🔮 Future Improvements
 
 - [ ] Add Random Forest & XGBoost models
 - [ ] Model accuracy comparison dashboard
@@ -139,14 +139,14 @@ plotly
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Rohit Shewale** — ML Intern Project  
 Built with ❤️ using Python, Scikit-learn & Streamlit
 
 ---
 
-## 📜 License
+# 📜 License
 
 Open source under [MIT License](LICENSE)
 
