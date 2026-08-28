@@ -142,7 +142,7 @@ plotly
 # 👨‍💻 Author
 
 **Rohit Shewale** — ML Intern Project  
-Built with ❤️ using Python, Scikit-learn & Streamlit
+Built with using Python, Scikit-learn & Streamlit
 
 ---
 
